@@ -1,0 +1,2 @@
+Null_val: Số lượng dữ liệu của IQ chiếm 1/3 dữ liệu tổng -> Nếu remove thì remove mất 1/3 dữ liệu -> Còn 2/3 dữ liệu -> Tốt nhất nên fillnan = mean|median???
+correlation: Nhìn chung wage, IQ và experience nếu đặt riêng lẻ thì không ảnh hưởng quá lớn, nếu kết hợp cùng các features khác sẽ liên quan rất nhiều với nhau -> Không nên remove nan values của IQ

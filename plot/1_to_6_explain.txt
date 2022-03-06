@@ -3,3 +3,5 @@ first_explained: Check xem south có phải là 1 region riêng hay là 1 featur
 second.png: Plot tổng wage theo các region từ 1 đến 9. Nhận thấy vẫn có sự chênh lệch giữa các region -> Cần check số lượng người của mỗi vùng giống hay khác
 third.png: Tổng số lượng người theo vùng -> Có sự chênh lệch giữa số lượng người từng vùng -> Tổng lương của từng vùng sẽ khác nhau
 fourth.png: Mean tiền lương của các vùng là không chênh lệch nhau nhiều -> Lương không phụ thuộc mạnh vào các vùng ???
+fifth.png: Kiểm tra mức độ chênh lệch giữa max và min tiền lương -> Các vùng chênh lệch ít nhất $1000 -> Không thể dùng mean để kiểm tra 
+sixth.png: Median tiền lương, tiền lương các vùng không quá chênh lệch 
