@@ -10,18 +10,6 @@ np.random.seed(1779)
 #st.set_page_config(layout="wide")
 
 # Side bar
-LIST_CONTENTS = [
-    "1. PCA là gì?",
-    "2. Các bước thực hiện phương pháp PCA",
-    "3. Trực quan hoá dữ liệu",
-    "4. Xây dựng model sử dụng PCA"
-]
-
-st.sidebar.title('Mục lục')
-slbContent = st.sidebar.selectbox(
-    "Chọn phần bạn muốn xem",
-    LIST_CONTENTS
-)
 
 
 # Subpages
